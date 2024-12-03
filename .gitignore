@@ -1,0 +1,10 @@
+
+
+# Ignore all image files
+*.jpg
+*.png
+*.txt
+
+# But track logo.png specifically
+!logo.png
+!hello.txt
